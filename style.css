@@ -1,0 +1,43 @@
+
+.btn-perso {
+	background-color: #B233B2;
+	font-size: 20px;
+	font-family: 'arial';
+	border-color: #B233B2;
+	}
+
+.btn-perso:hover {
+	background-color: #9439B2;
+	border-color: #9439B2;
+}
+
+.spaced {
+	margin-top: 30px;
+} 
+
+.facebook {
+	color: blue
+}	
+
+.instagram {
+	color: pink
+}	
+
+.twitter {
+	color: lightblue
+}	
+
+.rs {
+	text-align: center;
+}	
+
+h1 {
+	text-align: center;
+	color:#B233B2 ;
+	font-size: 50px;
+	font-family: 'Montserrat';
+	}
+
+body {
+	background-color: #
+	}
